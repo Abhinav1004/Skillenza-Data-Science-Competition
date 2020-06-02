@@ -32,7 +32,7 @@ Objective Of The Problem: The objective of the problem is to predict the the cat
 
 ## Result
 
-I achieved a rank of 14 on the leaderboard ![Result Screenshot](/skillenza_data_science_competition/images/results.png)
+I achieved a rank of 14 on the leaderboard ![Result Screenshot](/images/results.png)
 
 
 
